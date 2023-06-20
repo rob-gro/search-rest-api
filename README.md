@@ -67,6 +67,4 @@ Created by [@robgrodev](https://robgro.dev/) - feel free to contact me!
 
 <!-- Optional -->
 ## License 
- This project is open source and available under the 
- 
- ![License](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)
+ This project is open source and available under the MIT Licence
